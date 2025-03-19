@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋! My name is Abdulrahman and I'm a Backend Developer (Laravel)</h1>
 <h3 align="center">A passionate backend developer from Iraq</h3>
+<p align="left">
+Backend Web Developer with over 3 years of web development experience, working on a variety of projects from personal blogs to high performing projects with hundreds of thousands of users. 
+I have a great interest in everything related to software solutions and technical projects, and I have a passion for solving problems using programming, contributing to open sources, and offering my experiences and expertise to help others.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
