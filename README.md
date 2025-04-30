@@ -9,11 +9,12 @@ I have a great interest in everything related to software solutions and technica
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahman-al-mamouri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahman-al-mamouri/" height="30" width="40" /></a>
 </p>
+
 <p align="left">
 <a href="https://x.com/Abd_Almamouri"
-  target="blank"><img align="center"
+target="blank"><img align="center"
 src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" 
-alt="https://x.com/Abd_Almamouri" height="30" width="40" />
+alt="https://x.com/Abd_Almamouri" height="30" width="40" style"background-color:#fffff"/>
 
 </a>
 </p>
