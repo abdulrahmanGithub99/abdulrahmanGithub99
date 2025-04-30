@@ -5,18 +5,15 @@ Backend Web Developer with over 3 years of web development experience, working o
 I have a great interest in everything related to software solutions and technical projects, and I have a passion for solving problems using programming, contributing to open sources, and offering my experiences and expertise to help others.
 </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdulrahman-al-mamouri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahman-al-mamouri/" height="30" width="40" /></a>
-</p>
-
-<p align="left">
-<a href="https://x.com/Abd_Almamouri"
-target="blank"><img align="center"
-src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" 
-alt="https://x.com/Abd_Almamouri" height="30" width="40" />
-
-</a>
+  <a href="https://www.linkedin.com/in/abdulrahman-al-mamouri/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://x.com/Abd_Almamouri" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
