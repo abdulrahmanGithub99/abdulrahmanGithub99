@@ -13,8 +13,8 @@ I have a great interest in everything related to software solutions and technica
 <p align="left">
 <a href="https://x.com/Abd_Almamouri"
 target="blank"><img align="center"
-src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" 
-alt="https://x.com/Abd_Almamouri" height="30" width="40" style"background-color:#fffff"/>
+src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" 
+alt="https://x.com/Abd_Almamouri" height="30" width="40" />
 
 </a>
 </p>
