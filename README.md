@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋! My Name is Abdulrahman and I'm a Backend Developer <br>(PHP-Laravel)</h1>
 <h3 align="center">A passionate backend developer from Iraq</h3>
 <p align="left">
-Backend Web Developer with over 3 years of web development experience, working on a variety of projects from personal blogs to high performing projects with hundreds of thousands of users. 
-I have a great interest in everything related to software solutions and technical projects, and I have a passion for solving problems using programming, contributing to open sources, and offering my experiences and expertise to help others.
+Backend developer with 3 years of experience building scalable PHP and Laravel web applications, REST APIs and MySQL-backed systems for e-commerce, tourism and government portals. Strong in database optimization, caching with Redis, background processing with queues and jobs, and CI/CD with Docker and GitHub Actions. Comfortable owning a service from design review to production support, with a focus on clear APIs, reliable deployments and readable code.
 </p>
 
 
